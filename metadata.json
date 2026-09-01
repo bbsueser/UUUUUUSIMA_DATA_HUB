@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix UUSIMA·智慧教学实验平台",
+  "description": "UUSIMA 智慧教学与AI算力实验平台，支持多模态数据集管理、一键挂载与算法实训",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
